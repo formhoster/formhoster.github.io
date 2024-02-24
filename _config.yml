@@ -6,21 +6,21 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 
-oneflow-skin    : "aqua" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+oneflow-skin    : "dirt" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "OneFlow Jekyll Theme"
+title                    : "FormHoster"
 title_separator          : "-"
-subtitle                 : " " # Displayed in the masthead below the title, use " " for no subtitle
-url                      : "https://test123domain123.de" # the base hostname & protocol for your site
-baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "perstarke-webdev/oneflow-jekyll-theme" # GitHub username/repo-name
+subtitle                 : "Easy form processing for your static web site" # Displayed in the masthead below the title, use " " for no subtitle
+url                      : "https://formhoster.github.io/" # the base hostname & protocol for your site
+# baseurl                  : "oneflow" # the subpath of your site, e.g. "/blog"
+repository               : "formhoster/oneflow" # GitHub username/repo-name
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/images/logo.webp" # Site logo displayed in the masthead
+logo                     : "/assets/images/formhoster-wide.png" # Site logo displayed in the masthead
 show-popup               : true # set to false if you don't need / want to show a cookie-banner / cdn-usage popup.
                                 # Edit the popup itself in the respective /includes file
-masthead_title           : " "  # Overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : "This is the masthead_title"  # Overrides the website title displayed in the masthead, use " " for no title
 sticky-masthead          : true # if true, masthead/navigation bar will stay visible when the user scrolls down.
                                 # if false, it will move out of sight when scrolling.
 masthead-opacity         : 0.85 # set to any value between 0 and 1.
@@ -36,35 +36,32 @@ footer:
   links: # replace the URL's with your own for every link you want to have in your footer.
     - label: "Website"
       icon: "fa fa-globe"
-      url: "https://perstarke-webdev.de"
+      url: "https://www.formhoster.com"
     - label: "Email"
       icon: "fa fa-envelope"
-      url: "mailto: per@starke-team.de"
+      url: "mailto: jay@literatecomputing.com"
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
-      # url:
-    - label: "X/Twitter"
-      icon: "fab fa-x-twitter"
-      # url:
-    - label: "Facebook"
-      icon: "fab fa-facebook"
+      url: https://www.linkedin.com/in/pfaffman/
+    # - label: "Facebook"
+    #   icon: "fab fa-facebook"
       # url:
     - label: "GitHub"
       icon: "fab fa-github"
-      url: "https://github.com/perstarke-webdev"
-    - label: "Instagram"
-      icon: "fab fa-instagram"
-      url: "https://www.instagram.com/per.starke/"
-    - label: "YouTube"
-      icon: "fab fa-youtube"
-      url: "https://www.youtube.com/channel/UCG2Ndo4IEH8Fa0oIv2FBRMA"
-    - label: "Dev"
-      icon: "fab fa-dev"
-      url: "https://dev.to/per-starke-642"
-  copyright: "Per Starke Web Development" # Replace with your own
+      url: "https://github.com/formhoster"
+    # - label: "Instagram"
+    #   icon: "fab fa-instagram"
+    #   url: "https://www.instagram.com/per.starke/"
+    # - label: "YouTube"
+    #   icon: "fab fa-youtube"
+    #   url: "https://www.youtube.com/channel/UCG2Ndo4IEH8Fa0oIv2FBRMA"
+    # - label: "Dev"
+    #   icon: "fab fa-dev"
+    #   url: "https://dev.to/per-starke-642"
+  copyright: "Literate Computing, LLC" # Replace with your own
   creator: # Replace with your own creator name or remove this if you don't want any "created by" in the footer
-      name: "Per Starke Web Development"
-      url: "https://perstarke-webdev.de"
+      name: "Jay Pfaffman, Literate Computing, LLC"
+      url: "https://www.literattecomputing.com"
 
 
 
