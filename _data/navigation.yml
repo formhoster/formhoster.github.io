@@ -1,18 +1,12 @@
 # main links
 main:
-  - title: "Theme Documentation"
-    url: https://perstarke-webdev.de/oneflow-jekyll-theme
-    blank: true
-    description: "The documentation for this theme, on https://perstarke-webdev.de"
-  - title: "Section 1"
+  - title: "What We Do"
     url: /#section-1
     blank: false
-  - title: "Section 2"
+  - title: "Jekyll-ready code"
     url: /#section-2
     blank: false
-  - title: "Section 3"
-    url: /#section-3
-    blank: false
-  - title: "Section 4"
-    url: /#section-4
-    blank: false
+  - title: "FormHoster Hub"
+    url: https://hub.formhoster.com/
+    blank: true
+    description: "Get started processing forms!"
