@@ -1,0 +1,25 @@
+  .form-group {
+    display: flex;
+    align-items: center;
+    padding: 3px;
+  }
+
+  .form-group label {
+    margin-right: 10px;
+    width: 10em;
+    text-align: left;
+  }
+
+  .formhoster-form input.button {
+    width: fit-content;
+  }
+
+  .formhoster-form .form {
+    color: green;
+      border: 1px solid #ccc;
+      box-sizing: content-box;
+  }
+
+  .form-group textarea,input {
+    width: 50%;
+  }
