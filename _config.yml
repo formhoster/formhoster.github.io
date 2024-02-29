@@ -39,7 +39,7 @@ footer:
       url: "https://www.formhoster.com/"
     - label: "Email"
       icon: "fa fa-envelope"
-      url: "mailto: jay@literatecomputing.com"
+      url: "mailto:jay@literatecomputing.com?subject=Help%20with%20formHoster"
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
       url: https://www.linkedin.com/in/pfaffman/

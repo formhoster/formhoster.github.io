@@ -5,11 +5,12 @@ permalink: /contact-demo/
 formhoster_url: https://hub.formhoster.com/basic-contact-form/11
 formhoster_endpoint: https://hub.formhoster.com/forms/submit/11
 ---
-
+This form has `debug_mode` set to true, so it won't actually be submitted. Instead, it returns what would be entered into the message delivered to the form owner 
 
 <form action="https://hub.formhoster.com/forms/submit/11" method="POST">
 <input type="hidden" name="success_url" id="_success_url" value="https://hub.formhoster.com/pub/success">
 <input type="hidden" name="pm_user" id="pm_user" value="pfaffman">
+<input type="hidden" name="debug_mode" id="debug_mode" value="true">
 <!-- <input type="hidden" name="debug_mode" id="debug_mode" value=True> -->
 <div class="form-group">
   <label for="name">Name</label>
