@@ -7,6 +7,6 @@ main:
     url: /#section-2
     blank: false
   - title: "FormHoster Hub"
-    url: https://hub.formhoster.com/
+    url: https://hub.formhoster.com/t/quick-start-your-first-form/27
     blank: true
     description: "Get started processing forms!"
